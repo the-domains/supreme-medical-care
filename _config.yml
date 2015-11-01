@@ -1,0 +1,23 @@
+name: Supreme Medical Care
+favicon: null
+layout_spectrum: 0.4390089453663677
+typography_spectrum: 0.8412297763861716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23433274519629776
+  lightness: 0.7839217085856944
+  saturation: 0.7513847288209945
+  rhythmicContrast: 0.6156860932242125
+purpose: []
